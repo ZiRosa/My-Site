@@ -1,8 +1,7 @@
 
 ---
-title: "3 Facts About Me..."
+3 Facts About Me...
 ---
-
 1. I DM Dungeons & Dragons games with my friends.
 
 2. I enjoy writing.
