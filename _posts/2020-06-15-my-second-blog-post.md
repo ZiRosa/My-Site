@@ -1,7 +1,6 @@
 ---
-title: My Picture
+title: "My Picture (LINK)"
 date: 2020-06-15
 ---
 
-Link:
-https://drive.google.com/file/d/1rObMWnKLAMos7Xze6OAN5YQaMwLBZHh4/view
+ Link: https://drive.google.com/file/d/1rObMWnKLAMos7Xze6OAN5YQaMwLBZHh4/view
